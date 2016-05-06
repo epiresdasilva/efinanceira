@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<eFinanceira
+				xmlns="http://www.eFinanceira.gov.br/schemas/evtAberturaeFinanceira/v1_0_1">
+				<evtAberturaeFinanceira id="ID000000000000000001">
+					<ideEvento>
+						<indRetificacao>1</indRetificacao>
+						<tpAmb>2</tpAmb>
+						<aplicEmi>1</aplicEmi>
+						<verAplic>001</verAplic>
+					</ideEvento>
+					<ideDeclarante>
+						<cnpjDeclarante>XXXXX</cnpjDeclarante>
+					</ideDeclarante>
+					<infoAbertura>
+						<dtInicio>2015-07-01</dtInicio>
+						<dtFim>2015-12-31</dtFim>
+					</infoAbertura>
+					<AberturaMovOpFin>
+						<ResponsavelRMF>
+							<CPF>00431733813</CPF>
+							<Nome>Fulano de Tal</Nome>
+							<Setor>SETOR XXXX</Setor>
+							<Telefone>
+								<DDD>11</DDD>
+								<Numero>50734858</Numero>
+							</Telefone>
+							<Endereco>
+								<Logradouro>Rua Cel Silverio Magalhaes</Logradouro>
+								<Numero>346</Numero>
+								<Bairro>Jardim da Saude</Bairro>
+								<CEP>04154000</CEP>
+								<Municipio>Sao Paulo</Municipio>
+								<UF>SP</UF>
+							</Endereco>
+						</ResponsavelRMF>
+						<RepresLegal>
+							<CPF>00431733813</CPF>
+							<Setor>Fulano de Tal</Setor>
+							<Telefone>
+								<DDD>11</DDD>
+								<Numero>50734858</Numero>
+							</Telefone>
+						</RepresLegal>
+					</AberturaMovOpFin>
+				</evtAberturaeFinanceira>
+			</eFinanceira>
