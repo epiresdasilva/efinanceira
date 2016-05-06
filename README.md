@@ -23,3 +23,7 @@ A classe Main é a responsável pela execução.
 ```
 -Dorg.apache.xml.security.ignoreLineBreaks=true
 ```
+
+### Créditos
+
+Confesol - Confederação das Cooperativas Centrais de Crédito Rural com Interação Solidária
